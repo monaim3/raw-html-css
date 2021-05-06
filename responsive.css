@@ -1,0 +1,103 @@
+@media (max-width:992px){
+    ul.primary-menu li .ices {
+        font-size: 13px;
+        display: none;
+    }
+    ul.primary-menu li {
+        list-style: none;
+        position: relative;
+        margin-top: 7px;
+    }
+    .banner {
+  
+        height: 41vh;
+        position: relative;
+    }
+    .phn1 h1 {
+        font-size: 18px;
+        color: #58468C;
+        margin-left: 27%;
+    }
+    .testimonal {
+  
+        height: 37vh;
+    }
+    .f-2 {
+      
+        margin-left: -10px;
+    }
+    .f-3 {
+        margin-left: 14px;
+    }
+}
+@media (max-width:768px){
+    ul.primary-menu li {
+        
+        padding: 5px 0px;
+    }
+    .service h1 {
+        text-align: center;
+    }
+   .project .wrapper {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .sidebar .side-img img {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .team .t-1 .seck {
+        text-align: center;
+        width: 20%;
+        margin: auto;
+    }
+    .t-1 {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .testimonal .test-text {
+        margin-top: 1%;
+        margin-left: 12%;
+    } */
+    /*
+   
+    */
+}
+
+@media (max-width:375px){
+    .banner .kesalaga {
+        position: absolute;
+        top: 30%;
+        left: 7%;
+    }
+    .gallary .g-icon {
+        position: absolute;
+        left: 37%;
+        top: 41%;
+    }
+    .gallary .g-icon img {
+        width: 47%;
+    }
+    .testimonal .test-text p {
+        width: 85%;
+        margin: auto;
+    }
+}
+@media (max-width:360px){
+    .banner .kesalaga {
+        position: absolute;
+        top: 30%;
+        left: 4%;
+    }
+    .testimonal .test-text p {
+        width: 98%;
+        margin: auto;
+    }
+
+}
+@media (max-width:400px){
+    .testimonal .test-text p {
+        width: 78%;
+        margin: auto;
+    }
+}
